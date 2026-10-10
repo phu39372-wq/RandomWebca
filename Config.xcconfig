@@ -1,0 +1,3 @@
+// Вставьте сюда ваш бесплатный ключ с https://api.windy.com/keys
+// Этот файл НЕ должен попадать в публичный репозиторий — см. .gitignore
+WINDY_API_KEY = your_windy_api_key_here
